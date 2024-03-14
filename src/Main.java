@@ -5,6 +5,6 @@ public class Main {
             K++;
             SOMA = SOMA + K;
         }
-        System.out.println(SOMA);X
+        System.out.println(SOMA);
     }
 }
